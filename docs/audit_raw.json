@@ -1,0 +1,1192 @@
+{
+  "WA_Fn-UseC_-HR-Employee-Attrition.csv": {
+    "name": "WA_Fn-UseC_-HR-Employee-Attrition.csv",
+    "rows": 1470,
+    "cols": 35,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "Age",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 43,
+        "sample_values": [
+          "41",
+          "49",
+          "37"
+        ]
+      },
+      {
+        "col_name": "Attrition",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "col_name": "BusinessTravel",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 3,
+        "sample_values": [
+          "Travel_Rarely",
+          "Travel_Frequently",
+          "Non-Travel"
+        ]
+      },
+      {
+        "col_name": "DailyRate",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 886,
+        "sample_values": [
+          "1102",
+          "279",
+          "1373"
+        ]
+      },
+      {
+        "col_name": "Department",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 3,
+        "sample_values": [
+          "Sales",
+          "Research & Development",
+          "Human Resources"
+        ]
+      },
+      {
+        "col_name": "DistanceFromHome",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 29,
+        "sample_values": [
+          "1",
+          "8",
+          "2"
+        ]
+      },
+      {
+        "col_name": "Education",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "col_name": "EducationField",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 6,
+        "sample_values": [
+          "Life Sciences",
+          "Other",
+          "Medical"
+        ]
+      },
+      {
+        "col_name": "EmployeeCount",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "sample_values": [
+          "1"
+        ]
+      },
+      {
+        "col_name": "EmployeeNumber",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1470,
+        "sample_values": [
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "col_name": "EnvironmentSatisfaction",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "col_name": "Gender",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "Female",
+          "Male"
+        ]
+      },
+      {
+        "col_name": "HourlyRate",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 71,
+        "sample_values": [
+          "94",
+          "61",
+          "92"
+        ]
+      },
+      {
+        "col_name": "JobInvolvement",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "3",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "col_name": "JobLevel",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "col_name": "JobRole",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 9,
+        "sample_values": [
+          "Sales Executive",
+          "Research Scientist",
+          "Laboratory Technician"
+        ]
+      },
+      {
+        "col_name": "JobSatisfaction",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "4",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "col_name": "MaritalStatus",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 3,
+        "sample_values": [
+          "Single",
+          "Married",
+          "Divorced"
+        ]
+      },
+      {
+        "col_name": "MonthlyIncome",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1349,
+        "sample_values": [
+          "5993",
+          "5130",
+          "2090"
+        ]
+      },
+      {
+        "col_name": "MonthlyRate",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1427,
+        "sample_values": [
+          "19479",
+          "24907",
+          "2396"
+        ]
+      },
+      {
+        "col_name": "NumCompaniesWorked",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10,
+        "sample_values": [
+          "8",
+          "1",
+          "6"
+        ]
+      },
+      {
+        "col_name": "Over18",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "sample_values": [
+          "Y"
+        ]
+      },
+      {
+        "col_name": "OverTime",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "col_name": "PercentSalaryHike",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 15,
+        "sample_values": [
+          "11",
+          "23",
+          "15"
+        ]
+      },
+      {
+        "col_name": "PerformanceRating",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "col_name": "RelationshipSatisfaction",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "1",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "col_name": "StandardHours",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "sample_values": [
+          "80"
+        ]
+      },
+      {
+        "col_name": "StockOptionLevel",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "0",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "col_name": "TotalWorkingYears",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 40,
+        "sample_values": [
+          "8",
+          "10",
+          "7"
+        ]
+      },
+      {
+        "col_name": "TrainingTimesLastYear",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 7,
+        "sample_values": [
+          "0",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "col_name": "WorkLifeBalance",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "sample_values": [
+          "1",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "col_name": "YearsAtCompany",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 37,
+        "sample_values": [
+          "6",
+          "10",
+          "0"
+        ]
+      },
+      {
+        "col_name": "YearsInCurrentRole",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 19,
+        "sample_values": [
+          "4",
+          "7",
+          "0"
+        ]
+      },
+      {
+        "col_name": "YearsSinceLastPromotion",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 16,
+        "sample_values": [
+          "0",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "col_name": "YearsWithCurrManager",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 18,
+        "sample_values": [
+          "5",
+          "7",
+          "0"
+        ]
+      }
+    ]
+  },
+  "Employee_Performance_Dataset.csv": {
+    "name": "Employee_Performance_Dataset.csv",
+    "rows": 5000,
+    "cols": 13,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "Employee ID",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5000,
+        "sample_values": [
+          "376063",
+          "810690",
+          "520956"
+        ]
+      },
+      {
+        "col_name": "Name",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4863,
+        "sample_values": [
+          "Manikya Badami",
+          "Zara Mahal",
+          "Sana Gera"
+        ]
+      },
+      {
+        "col_name": "Department",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "Sales",
+          "Marketing",
+          "Finance"
+        ]
+      },
+      {
+        "col_name": "Job Role",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 15,
+        "sample_values": [
+          "Sales Executive",
+          "Marketing Executive",
+          "Accountant"
+        ]
+      },
+      {
+        "col_name": "Performance Score",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 51,
+        "sample_values": [
+          "61",
+          "91",
+          "100"
+        ]
+      },
+      {
+        "col_name": "KPI Score",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2651,
+        "sample_values": [
+          "91.03",
+          "83.36",
+          "65.39"
+        ]
+      },
+      {
+        "col_name": "Attendance (%)",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2172,
+        "sample_values": [
+          "94.4",
+          "78.45",
+          "99.5"
+        ]
+      },
+      {
+        "col_name": "Peer Rating",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 21,
+        "sample_values": [
+          "4.5",
+          "4.7",
+          "4.4"
+        ]
+      },
+      {
+        "col_name": "Task Completion (%)",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2448,
+        "sample_values": [
+          "78.19",
+          "71.39",
+          "80.2"
+        ]
+      },
+      {
+        "col_name": "Work Hours Logged",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 21,
+        "sample_values": [
+          "42",
+          "46",
+          "51"
+        ]
+      },
+      {
+        "col_name": "Manager Feedback",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 21,
+        "sample_values": [
+          "3.7",
+          "4.5",
+          "3.5"
+        ]
+      },
+      {
+        "col_name": "Training Hours",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 31,
+        "sample_values": [
+          "18",
+          "15",
+          "7"
+        ]
+      },
+      {
+        "col_name": "Promotion Eligibility",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "No",
+          "Yes"
+        ]
+      }
+    ]
+  },
+  "data/raw/employee_performance_pro.csv": {
+    "name": "data/raw/employee_performance_pro.csv",
+    "rows": 500,
+    "cols": 24,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "EmployeeID",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 500,
+        "sample_values": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "col_name": "Name",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 500,
+        "sample_values": [
+          "Steven Barnett",
+          "Christopher Benson",
+          "Norman Lane"
+        ]
+      },
+      {
+        "col_name": "Gender",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 3,
+        "sample_values": [
+          "Other",
+          "Female",
+          "Male"
+        ]
+      },
+      {
+        "col_name": "Age",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 40,
+        "sample_values": [
+          "57",
+          "26",
+          "59"
+        ]
+      },
+      {
+        "col_name": "Department",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 6,
+        "sample_values": [
+          "Finance",
+          "Sales",
+          "Support"
+        ]
+      },
+      {
+        "col_name": "JobRole",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 13,
+        "sample_values": [
+          "Auditor",
+          "Sales Executive",
+          "Helpdesk"
+        ]
+      },
+      {
+        "col_name": "EducationLevel",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "col_name": "JoiningDate",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 473,
+        "sample_values": [
+          "2016-05-05",
+          "2014-08-20",
+          "2010-05-17"
+        ]
+      },
+      {
+        "col_name": "CountryCode",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "91",
+          "1",
+          "49"
+        ]
+      },
+      {
+        "col_name": "Country",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 6,
+        "sample_values": [
+          "India",
+          "Canada",
+          "Germany"
+        ]
+      },
+      {
+        "col_name": "PhoneNumber",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 500,
+        "sample_values": [
+          "6222371166",
+          "466649099",
+          "8302098565"
+        ]
+      },
+      {
+        "col_name": "MonthlySalary",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 498,
+        "sample_values": [
+          "93531",
+          "53706",
+          "105756"
+        ]
+      },
+      {
+        "col_name": "OvertimeHoursPerMonth",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 41,
+        "sample_values": [
+          "33",
+          "24",
+          "20"
+        ]
+      },
+      {
+        "col_name": "LeavesTaken",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 31,
+        "sample_values": [
+          "9",
+          "1",
+          "7"
+        ]
+      },
+      {
+        "col_name": "LastLeaveDate",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 268,
+        "sample_values": [
+          "2024-07-03",
+          "2024-01-05",
+          "2024-11-27"
+        ]
+      },
+      {
+        "col_name": "LeaveDayName",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 7,
+        "sample_values": [
+          "Wednesday",
+          "Friday",
+          "Monday"
+        ]
+      },
+      {
+        "col_name": "ProjectsHandled",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 15,
+        "sample_values": [
+          "13",
+          "15",
+          "7"
+        ]
+      },
+      {
+        "col_name": "TrainingHours",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 76,
+        "sample_values": [
+          "16",
+          "44",
+          "62"
+        ]
+      },
+      {
+        "col_name": "CustomerSatisfaction",
+        "dtype": "float64",
+        "null_count": 319,
+        "null_pct": 63.8,
+        "unique_count": 10,
+        "sample_values": [
+          "8.0",
+          "7.0",
+          "6.0"
+        ]
+      },
+      {
+        "col_name": "LastPromotionYear",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 15,
+        "sample_values": [
+          "2020",
+          "2014",
+          "2012"
+        ]
+      },
+      {
+        "col_name": "YearsAtCompany",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 14,
+        "sample_values": [
+          "9",
+          "11",
+          "15"
+        ]
+      },
+      {
+        "col_name": "WorkLifeBalanceScore",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 273,
+        "sample_values": [
+          "1.9",
+          "5.03",
+          "4.83"
+        ]
+      },
+      {
+        "col_name": "PerformanceRating",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5,
+        "sample_values": [
+          "4",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "col_name": "AttritionRisk",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "No",
+          "Yes"
+        ]
+      }
+    ]
+  },
+  "data/raw/occupation_data.csv": {
+    "name": "data/raw/occupation_data.csv",
+    "rows": 1016,
+    "cols": 3,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "O*NET-SOC Code",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1016,
+        "sample_values": [
+          "11-1011.00",
+          "11-1011.03",
+          "11-1021.00"
+        ]
+      },
+      {
+        "col_name": "Title",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1016,
+        "sample_values": [
+          "Chief Executives",
+          "Chief Sustainability Officers",
+          "General and Operations Managers"
+        ]
+      },
+      {
+        "col_name": "Description",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1016,
+        "sample_values": [
+          "Determine and formulate policies and provide overall direction of companies or private and public sector organizations within guidelines set up by a board of directors or similar governing body. Plan, direct, or coordinate operational activities at the highest level of management with the help of subordinate executives and staff managers.",
+          "Communicate and coordinate with management, shareholders, customers, and employees to address sustainability issues. Enact or oversee a corporate sustainability strategy.",
+          "Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors."
+        ]
+      }
+    ]
+  },
+  "data/raw/essential_skills.csv": {
+    "name": "data/raw/essential_skills.csv",
+    "rows": 18200,
+    "cols": 15,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "O*NET-SOC Code",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 910,
+        "sample_values": [
+          "11-1011.00",
+          "11-1011.03",
+          "11-1021.00"
+        ]
+      },
+      {
+        "col_name": "Title",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 910,
+        "sample_values": [
+          "Chief Executives",
+          "Chief Sustainability Officers",
+          "General and Operations Managers"
+        ]
+      },
+      {
+        "col_name": "Element ID",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10,
+        "sample_values": [
+          "2.A.1.a",
+          "2.A.1.b",
+          "2.A.1.c"
+        ]
+      },
+      {
+        "col_name": "Element Name",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10,
+        "sample_values": [
+          "Reading Comprehension",
+          "Active Listening",
+          "Writing"
+        ]
+      },
+      {
+        "col_name": "Scale ID",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "IM",
+          "LV"
+        ]
+      },
+      {
+        "col_name": "Scale Name",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "Importance",
+          "Level"
+        ]
+      },
+      {
+        "col_name": "Data Value",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 49,
+        "sample_values": [
+          "4.12",
+          "4.62",
+          "4.0"
+        ]
+      },
+      {
+        "col_name": "N",
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "sample_values": [
+          "8"
+        ]
+      },
+      {
+        "col_name": "Standard Error",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 41,
+        "sample_values": [
+          "0.125",
+          "0.183",
+          "0.0"
+        ]
+      },
+      {
+        "col_name": "Lower CI Bound",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 216,
+        "sample_values": [
+          "3.88",
+          "4.2664",
+          "4.0"
+        ]
+      },
+      {
+        "col_name": "Upper CI Bound",
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 234,
+        "sample_values": [
+          "4.37",
+          "4.9836",
+          "4.0"
+        ]
+      },
+      {
+        "col_name": "Recommend Suppress",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "N",
+          "Y"
+        ]
+      },
+      {
+        "col_name": "Not Relevant",
+        "dtype": "object",
+        "null_count": 9100,
+        "null_pct": 50.0,
+        "unique_count": 2,
+        "sample_values": [
+          "N",
+          "Y"
+        ]
+      },
+      {
+        "col_name": "Date",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 17,
+        "sample_values": [
+          "08/2023",
+          "08/2021",
+          "08/2026"
+        ]
+      },
+      {
+        "col_name": "Domain Source",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "sample_values": [
+          "Analyst"
+        ]
+      }
+    ]
+  },
+  "data/raw/software_skills.csv": {
+    "name": "data/raw/software_skills.csv",
+    "rows": 31821,
+    "cols": 7,
+    "duplicates": 0,
+    "columns": [
+      {
+        "col_name": "O*NET-SOC Code",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 923,
+        "sample_values": [
+          "11-1011.00",
+          "11-1011.03",
+          "11-1021.00"
+        ]
+      },
+      {
+        "col_name": "Title",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 923,
+        "sample_values": [
+          "Chief Executives",
+          "Chief Sustainability Officers",
+          "General and Operations Managers"
+        ]
+      },
+      {
+        "col_name": "Workplace Example",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 8753,
+        "sample_values": [
+          "Adobe Acrobat",
+          "AdSense Tracker",
+          "Atlassian JIRA"
+        ]
+      },
+      {
+        "col_name": "Element ID",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 134,
+        "sample_values": [
+          "2.E.5.b",
+          "2.E.6.f",
+          "2.E.5.a"
+        ]
+      },
+      {
+        "col_name": "Element Name",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 134,
+        "sample_values": [
+          "Document management software",
+          "Data base user interface and query software",
+          "Content workflow software"
+        ]
+      },
+      {
+        "col_name": "Hot Technology",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "Y",
+          "N"
+        ]
+      },
+      {
+        "col_name": "In Demand",
+        "dtype": "object",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "sample_values": [
+          "N",
+          "Y"
+        ]
+      }
+    ]
+  }
+}

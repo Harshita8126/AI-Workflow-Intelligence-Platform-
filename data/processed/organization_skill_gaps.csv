@@ -1,0 +1,59 @@
+skill_name,employees_missing_count,missing_percentage,severity_level
+Reading Comprehension,754,51.29,HIGH
+Active Listening,745,50.68,HIGH
+Writing,742,50.48,HIGH
+Critical Thinking,738,50.2,HIGH
+Active Learning,728,49.52,HIGH
+Monitoring,725,49.32,HIGH
+Speaking,718,48.84,HIGH
+Microsoft Excel,589,40.07,HIGH
+Microsoft Office software,559,38.03,HIGH
+Microsoft PowerPoint,538,36.6,HIGH
+Microsoft Outlook,437,29.73,MEDIUM
+Adobe Photoshop,360,24.49,MEDIUM
+Adobe Acrobat,355,24.15,MEDIUM
+Adobe Creative Cloud software,341,23.2,MEDIUM
+Learning Strategies,341,23.2,MEDIUM
+Apple macOS,327,22.24,MEDIUM
+Apache Hadoop,325,22.11,MEDIUM
+Amazon Web Services AWS software,323,21.97,MEDIUM
+Science,319,21.7,MEDIUM
+Autodesk AutoCAD,319,21.7,MEDIUM
+Salesforce software,272,18.5,MEDIUM
+Adobe Illustrator,257,17.48,MEDIUM
+Adobe InDesign,217,14.76,LOW
+Mathematics,180,12.24,LOW
+Apache Spark,166,11.29,LOW
+Go,165,11.22,LOW
+Git,161,10.95,LOW
+Docker,158,10.75,LOW
+Ansible software,157,10.68,LOW
+GitHub,157,10.68,LOW
+Database software,154,10.48,LOW
+C,154,10.48,LOW
+C++,147,10.0,LOW
+Microsoft Word,145,9.86,LOW
+Bash,141,9.59,LOW
+Commercial plate reader software,141,9.59,LOW
+MEDITECH software,141,9.59,LOW
+Data entry software,140,9.52,LOW
+Apache Kafka,140,9.52,LOW
+Google Docs,134,9.12,LOW
+Billing software,131,8.91,LOW
+SAP software,129,8.78,LOW
+Atlassian Confluence,106,7.21,LOW
+Atlassian JIRA,101,6.87,LOW
+IBM SPSS Statistics,90,6.12,LOW
+Google Workspace software,67,4.56,LOW
+Intuit QuickBooks,64,4.35,LOW
+Linux,60,4.08,LOW
+Google Analytics,58,3.95,LOW
+HubSpot software,53,3.61,LOW
+Microsoft Access,37,2.52,LOW
+Microsoft SharePoint,34,2.31,LOW
+ESRI ArcGIS software,32,2.18,LOW
+Workday software,32,2.18,LOW
+Microsoft Visio,30,2.04,LOW
+Microsoft Project,29,1.97,LOW
+Applicant tracking software,24,1.63,LOW
+Oracle HRIS,24,1.63,LOW

@@ -1,0 +1,6 @@
+department,employee_count,avg_engagement,avg_performance,avg_kpi,avg_attendance,promotion_eligible
+Finance,1016,84.43,75.16,77.39,87.55,144
+HR,1010,84.41,75.83,77.66,87.27,154
+IT,974,84.26,74.68,77.45,87.66,129
+Marketing,965,84.43,73.86,76.9,87.26,130
+Sales,1035,84.24,74.34,77.5,87.58,138

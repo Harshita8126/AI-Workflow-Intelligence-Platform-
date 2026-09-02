@@ -1,0 +1,15 @@
+course_id,course_title,domain,target_skills,difficulty,duration_hours,quality_rating
+C-TECH-01,Python for Data Science & ML,Data Science,Python|NumPy|Pandas,Intermediate,24,4.8
+C-TECH-02,Enterprise Database Architecture & SQL,Data Engineering,SQL|Database Management|PostgreSQL,Intermediate,18,4.7
+C-TECH-03,Applied Machine Learning & Deep Learning,AI/ML,Machine Learning|Scikit-learn|PyTorch,Advanced,36,4.9
+C-TECH-04,Production MLOps & Model Deployment,AI/ML,MLOps|Docker|FastAPI|MLflow,Advanced,30,4.9
+C-TECH-05,Cloud Solutions Architecture (AWS & Azure),Cloud Computing,AWS|Cloud Infrastructure|Azure,Advanced,40,4.8
+C-TECH-06,Containerization & Kubernetes in Production,DevOps,Docker|Kubernetes|CI/CD,Advanced,20,4.8
+C-TECH-07,Enterprise Cybersecurity & Threat Analysis,Security,Cybersecurity|Network Security|Threat Detection,Advanced,28,4.7
+C-TECH-08,Full-Stack Web Development with React & FastAPI,Software Engineering,React|FastAPI|JavaScript|REST API,Intermediate,32,4.6
+C-BUS-01,Strategic Human Resources & Talent Analytics,Human Resources,Human Resources|Talent Management|HR Analytics,Intermediate,16,4.7
+C-BUS-02,Executive Sales Strategy & Key Account Management,Sales,Sales Management|Negotiation|CRM|Salesforce,Advanced,20,4.8
+C-BUS-03,Corporate Financial Modeling & Valuation,Finance,Financial Analysis|Accounting|Excel Financials,Advanced,25,4.8
+C-SOFT-01,Critical Thinking & Complex Decision Making,Leadership,Critical Thinking|Problem Solving|Decision Making,Intermediate,12,4.9
+C-SOFT-02,Executive Communication & Stakeholder Alignment,Leadership,Active Listening|Speaking|Writing|Negotiation,All Levels,10,4.8
+C-SOFT-03,Agile Project Leadership & Team Dynamics,Management,Project Management|Agile|Monitoring|Collaboration,Intermediate,15,4.7
