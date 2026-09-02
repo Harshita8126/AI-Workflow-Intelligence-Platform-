@@ -1,3 +1,5 @@
+Deployment Link - https://enterprise-hr-ai-model.streamlit.app/
+
 # Enterprise HR AI — Workforce Intelligence & Upskilling Platform
 
 An end-to-end, locally runnable enterprise HR decision-support system that predicts attrition risk, maps organizational skills, computes competency gaps, personalizes upskilling courses, answers policy inquiries via grounded RAG, and orchestrates workforce workflows via governed AI agents.
